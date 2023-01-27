@@ -1,5 +1,5 @@
 ## 👨‍🎓 JIN SUN YEOP 👨‍🎓 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinsunyeop&count_bg=%23464944&title_bg=%2337A264&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 🙆‍♂️ Profile
 
 ![진선엽](https://user-images.githubusercontent.com/85484391/214732416-07003528-4b03-4f9c-b671-aeff66e73db3.jpg)
