@@ -7,7 +7,7 @@
 
  - Name : 진선엽
  - Email : tjsduq8836@naver.com
- - Education : 남서울대 산업경영공학과 졸업 (2016 - 2022)
+ - Education : 남서울대 산업경영공학과 졸업 (2016 - 2022) 총 학점 : 3.52
  - Training-Course : (kg itbank) JAVA 기반 SW 개발자 양성과정 (2021.09 - 2022.02)
  - License
 	 - 정보처리기사
@@ -18,7 +18,22 @@
 ## 🏃‍♂️ Career
  - 비즈데이터, Java 웹 개발자 (2022.02 ~ ing) 
 
-	 
+## 📟 Job Experience 
+ #
+ ####  •  TP진흥회 Dev & M/R (2022.04 ~ 2022.12)
+ __<https://remas.or.kr>__
+ 
+ TP 진흥회는 중소기업의 전 대비 매출과 설문 조사를 통한 위기현황 및 전망을 조회, 각종 차트를 통해 현재 상태를 직관적으로 비교하여 위기 대응할 수 있도록 제작된 서비스입니다.
+ 
+ - JQuery DataTables 라이브러리를 활용한 테이블 조회
+ - POI를 통한 엑셀 다운로드 및 업로드 
+ - Apach Echart 라이브러리를 활용한 통계 차트 조회
+ - API 개발
+ - (지역경제현황 관리 페이지, 지역경제현황 상황판 페이지, 심층 현장조사 및 Stand-up 맞춤지원 페이지, 중소기업 밀집지역 정보관리 페이지, 설문조사 페이지) 제작
+---
+#
+####  •  PAMS 공공지원 매칭서비스 Dev & M/R (2022.09 ~ ing)
+__<https://www.jiwone.com/>__
 
 ## 🤜 Skills
 #### Platforms & Languages
@@ -29,3 +44,7 @@
 
 #### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+
+
+
+
