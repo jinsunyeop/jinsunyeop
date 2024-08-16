@@ -79,6 +79,7 @@ __<https://eorder.hitejinro.com/>__
  - 회사 등록 API 개발
  - Vue.js 사용경험
 
+---
 
 ## 🤜 Skills
 #### Platforms & Languages
